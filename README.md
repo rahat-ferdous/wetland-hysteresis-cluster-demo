@@ -1,6 +1,6 @@
-# Functional Wetland Types: Hysteresis Clustering Demo
+# bheaviour-based Classification of Wetlands: Hysteresis Clustering Demo
 
-A Streamlit web application demonstrating the concept of **Functional Hysteresis Types** for wetland methane emissions, as proposed in my research interests.
+A demonstration of the concept of **Functional Hysteresis Types** for wetland methane emissions.
 
 ## 🎯 Research Concept
 
