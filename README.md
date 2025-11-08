@@ -8,7 +8,7 @@ This demo explores whether wetlands can be classified by their dynamic methane e
 
 ## 🚀 Live Demo
 
-The app is deployed using Streamlit Community Cloud: [Your deployment link will go here]
+The app is deployed using Streamlit Community Cloud: https://wetland-hysteresis-cluster-demo-kuvqzkhqyffynjb9ga9gjt.streamlit.app/
 
 ## 📊 What This Demo Shows
 
