@@ -1,4 +1,4 @@
-# Bheaviour-based Classification of Wetlands: Hysteresis Clustering Demo
+# Behaviour-based Classification of Wetlands: Hysteresis Clustering Demo
 
 A demonstration of the concept of **Functional Hysteresis Types** for wetland methane emissions.
 
