@@ -148,5 +148,5 @@ if st.sidebar.button("Download Synthetic Data as CSV"):
 
 st.sidebar.markdown("---")
 st.sidebar.info("""
-**About this Demo**: This demonstrates the research concept proposed in my cover letter to Dr. Yuan's lab, showing how unsupervised learning can reveal functional wetland types beyond traditional classifications.
+**About this Demo**: This demonstrates the research concept, how unsupervised learning can reveal functional wetland types beyond traditional classifications.
 """)
