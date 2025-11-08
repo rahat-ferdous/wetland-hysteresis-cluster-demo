@@ -17,12 +17,4 @@ The app is deployed using Streamlit Community Cloud: https://wetland-hysteresis-
 3. **3D Visualization**: Compares traditional vs. functional classification
 4. **Cross-region Analysis**: Identifies similar patterns across different biomes
 
-## 🛠️ Technical Setup
 
-To run locally:
-
-```bash
-git clone https://github.com/yourusername/wetland-hysteresis-demo.git
-cd wetland-hysteresis-demo
-pip install -r requirements.txt
-streamlit run app.py
